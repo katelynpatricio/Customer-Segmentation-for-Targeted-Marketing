@@ -24,5 +24,17 @@ This project applies K-Prototypes clustering to segment customers based on demog
   
 ---
 
+## PowerPoint Presentation
+
+[View the Presentation](https://pitch.com/v/customer-segmentation-for-targeted-marketing-v2v97u)
+
+**Contents:**
+- **Project Background**:
+- **Executive Summary**: 
+- **Data Insights**: 
+- **Recommendations**: 
+
+---
+
 ## Contact  
 For questions or feedback, please contact [k.atelynpatricio26@gmail.com].
