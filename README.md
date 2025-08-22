@@ -1,26 +1,14 @@
 # Customer Segmentation & Purchase Behavior Analysis
 
 ## Project Overview  
-This project applies K-Prototypes clustering to segment customers based on demographic, behavioral, and transactional data. Using Python, the analysis combines sales records, discounts, product preferences, and engagement metrics to uncover patterns in customer behavior. The goal is to support targeted marketing, loyalty program optimization, and retention strategies.
+This project applies K-Prototypes clustering to segment customers based on demographic, behavioral, and transactional data. This analysis combines customer infomation, transactions, delivery, and engagement metrics to uncover patterns in customer behavior. The goal is to support targeted marketing, optimize loyalty program strategies, and strengthen customer retention efforts.
 
 ## Features  
-- Data cleaning & preprocessing for mixed numerical and categorical variables  
+- Data cleaning & preprocessing for numerical and categorical variables  
 - Customer segmentation using K-Prototypes clustering  
-- Analysis of demographic and purchase behavior differences between clusters  
-- Identification of high-value and at-risk customer groups  
+- Analysis of key metrics between clusters
+- Identification of distinct customer groups  
 - Recommendations for improving retention and engagement  
-
-## Data Highlights  
-- **Demographics:** Age, gender, loyalty program membership & tier  
-- **Purchase Behavior:** Discounts, product categories, purchase channels, delivery metrics  
-- **Engagement:** Recency score and total purchases  
-- **Output:** 4 distinct customer clusters with unique profiles  
-
-## Recommendations  
-- Personalize offers based on cluster-specific product preferences  
-- Target loyalty program expansion toward non-members in high-value clusters  
-- Adjust discount strategies to retain at-risk customers without eroding profit  
-- Enhance delivery experience for top-spending customer groups
   
 ---
 
