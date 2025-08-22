@@ -9,7 +9,7 @@ This project applies K-Prototypes clustering to segment customers based on demog
 - Analysis of key metrics between clusters
 - Identification of distinct customer groups  
 - Recommendations for improving retention and engagement  
-  
+
 ---
 
 ## PowerPoint Presentation
@@ -21,6 +21,11 @@ This project applies K-Prototypes clustering to segment customers based on demog
 - **Data Breakdown**: Overview of dataset and key variables
 - **Segmentation Results**: Clustering insights and outcomes
 - **Summary**: Recommended next steps 
+
+---
+
+## Dataset
+The dataset used for this project can be accessed [here](https://www.kaggle.com/datasets/noeyislearning/sales-simulation?resource=download).
 
 ---
 
