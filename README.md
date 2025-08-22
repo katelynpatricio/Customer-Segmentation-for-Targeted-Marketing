@@ -25,7 +25,7 @@ This project applies K-Prototypes clustering to segment customers based on demog
 ---
 
 ## Dataset
-The dataset used for this project can be accessed [here](https://www.kaggle.com/datasets/noeyislearning/sales-simulation?resource=download).
+[Sales Dataset](https://www.kaggle.com/datasets/noeyislearning/sales-simulation?resource=download).
 
 ---
 
