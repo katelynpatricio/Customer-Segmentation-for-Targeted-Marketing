@@ -3,6 +3,8 @@
 ## Project Overview  
 This project applies K-Prototypes clustering to segment customers based on demographic, behavioral, and transactional data. This analysis combines customer infomation, transactions, delivery, and engagement metrics to uncover patterns in customer behavior. The goal is to support targeted marketing, optimize loyalty program strategies, and strengthen customer retention efforts.
 
+---
+
 ## Features  
 - Data cleaning and preprocessing for numerical and categorical variables  
 - Customer segmentation using K-Prototypes clustering  
