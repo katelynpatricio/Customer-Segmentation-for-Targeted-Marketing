@@ -28,10 +28,5 @@ The dataset used for this project can be accessed [here](https://www.kaggle.com/
 
 ---
 
-## Dataset
-[Sales Dataset](https://www.kaggle.com/datasets/noeyislearning/sales-simulation?resource=download).
-
----
-
 ## Contact  
 For questions or feedback, please contact [k.atelynpatricio26@gmail.com].
